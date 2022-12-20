@@ -174,7 +174,7 @@ public class MissatgesNadalencs {
 
 	private static void AlumneFila3PC6() {
                 System.out.println("====================================");
-                System.out.println("Hola, sóc EMPAR la professora de ED");
+                System.out.println("Hola, sóc Alex alumne de Batoi");
                 System.out.println(" BON NADAL, Salut i Pau per a tots.");
                 System.out.println(" FELIÇ ANY NOU !!!!!!");
                 System.out.println("====================================");
