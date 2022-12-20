@@ -88,6 +88,13 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç Any Nou.  Pau i Salu
 
 
 #### AlumneFila3 PC6:
+                System.out.println("====================================");
+                System.out.println("Hola, sóc Alex alumne de Batoi");
+                System.out.println(" BON NADAL, Salut i Pau per a tots.");
+                System.out.println(" FELIÇ ANY NOU !!!!!!");
+                System.out.println("====================================");
+                System.out.println();
+
 
 
 
